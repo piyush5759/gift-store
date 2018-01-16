@@ -1,7 +1,7 @@
 <%-- 
     Document   : user_registration
     Created on : Jun 14, 2013, 1:49:32 PM
-    Author     : rachit
+    Author     : Piyush
 --%>
 <%@page import="javax.servlet.http.HttpServlet" %>
 <%@page import="javax.servlet.http.HttpServletRequest" %>

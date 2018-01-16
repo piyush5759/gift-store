@@ -1,7 +1,7 @@
 <%-- 
     Document   : updqty
     Created on : Jun 26, 2013, 11:43:15 PM
-    Author     : rachit
+    Author     : Piyush
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,7 +1,7 @@
 <%-- 
     Document   : product
     Created on : Jun 5, 2013, 12:08:42 PM
-    Author     : rachit
+    Author     : Piyush
 --%>
 
 <%@page import="java.sql.PreparedStatement"%>

@@ -1,7 +1,7 @@
 <%-- 
     Document   : deletesession
     Created on : Jun 26, 2013, 11:16:50 PM
-    Author     : rachit
+    Author     : Piyush
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

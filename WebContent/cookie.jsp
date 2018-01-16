@@ -1,7 +1,7 @@
 <%-- 
     Document   : cookie
     Created on : Jun 15, 2013, 4:05:05 PM
-    Author     : rachit
+    Author     : Piyush
 --%>
 <%@page import="javax.servlet.http.HttpSession"%>
 <%@page import="java.sql.PreparedStatement"%>

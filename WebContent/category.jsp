@@ -1,7 +1,7 @@
 <%-- 
     Document   : category
     Created on : Jun 5, 2013, 12:08:19 PM
-    Author     : rachit
+    Author     : PIYUSH
 --%>
 
 <%@page import="java.sql.PreparedStatement"%>
@@ -110,12 +110,9 @@
                     out.println("<ul>");
                 %>
             </div>
-
             <%-- footer division --%>            
             <div id="footer" class="div" >
-
             </div>
-
         </div>
     </body>
 </html>
